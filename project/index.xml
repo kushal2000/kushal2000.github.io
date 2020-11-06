@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Kushal Kedia</title>
+    <link>https://kushal2000.github.io/project/</link>
+      <atom:link href="https://kushal2000.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2020 19:52:59 +0530</lastBuildDate>
+    <image>
+      <url>https://kushal2000.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://kushal2000.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Code-Switching Patterns to Improve Sentiment Detection</title>
+      <link>https://kushal2000.github.io/project/code-switching/</link>
+      <pubDate>Fri, 06 Nov 2020 19:52:59 +0530</pubDate>
+      <guid>https://kushal2000.github.io/project/code-switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RRT Simulator on ROS Turtlesim</title>
+      <link>https://kushal2000.github.io/project/rrt-sim/</link>
+      <pubDate>Thu, 05 Nov 2020 20:12:35 +0530</pubDate>
+      <guid>https://kushal2000.github.io/project/rrt-sim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
